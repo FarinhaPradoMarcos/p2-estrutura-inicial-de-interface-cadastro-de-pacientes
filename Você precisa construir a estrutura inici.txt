@@ -1,0 +1,15 @@
+Você está participando de um projeto para construir um painel web que exibe informações sobre pacientes em tempo real. 
+Esse painel será usado por médicos e enfermeiros e precisa ser confiável, responsivo e continuamente atualizado. 
+Desse modo, é importante prevenir e garantir que não tenha erros, 
+além de se organizar toda uma documentação sobre desenvolvimento e versionamento com auxílio do GitHub, 
+e práticas CI/CD usando GitHub Actions.
+
+Você precisa construir a estrutura inicial da interface do painel. O layout deve conter:
+
+Um cabeçalho com o nome do sistema
+
+Um formulário para adicionar pacientes
+
+Uma tabela para exibir os dados
+
+Um rodapé com informações do projeto
